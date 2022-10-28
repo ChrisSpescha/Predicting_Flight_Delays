@@ -37,18 +37,18 @@ Prediction:
 	•	We choose the Naive Bayes Classification 
   
 Results:
-	Arr delay distribution 
+	            Arr delay distribution 
 	![WechatIMG6809](https://user-images.githubusercontent.com/105768533/198748815-bf297aac-631b-4fd0-8695-f0cb75490249.jpeg)	Month vs delaydistribution  
 		  
-	Weather VS delay distribution 
-  ![WechatIMG6813](https://user-images.githubusercontent.com/105768533/198748873-3f4cc776-8cff-4364-8c7f-71f5fcc3d05f.jpeg)
+	            Weather VS delay distribution 
+        ![WechatIMG6813](https://user-images.githubusercontent.com/105768533/198748873-3f4cc776-8cff-4364-8c7f-71f5fcc3d05f.jpeg)
   
-  Month VS delay distribution 
-  ![WechatIMG6811](https://user-images.githubusercontent.com/105768533/198748924-19ff0acc-1eda-4bdd-b511-e28a3b732a23.jpeg)	•	For our regression model, the R2 is very. And, some are negative
+                    Month VS delay distribution 
+        ![WechatIMG6811](https://user-images.githubusercontent.com/105768533/198748924-19ff0acc-1eda-4bdd-b511-e28a3b732a23.jpeg)	•	For our regression model, the R2 is very. And, some are negative
   
   
   •	For our regression model, the R2 is very. And, some are negative
-	•	For classification, the accuracy is higher. Around 0.5
+  •     For classification, the accuracy is higher. Around 0.5
 
 Challenges:
  
